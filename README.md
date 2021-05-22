@@ -3,14 +3,14 @@ You can use the [editor on GitHub](https://github.com/blor-study/PCA/edit/main/R
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Droit constitutionnel
+### [Droit constitutionnel](https://blor-study.github.io/PCA/Droit-constitutionnel.pdf)
 
-Cours donné par Daniel Prat.
-[Droit constitutionnel](https://blor-study.github.io/PCA/Droit constitutionnel.pdf).
+Ce cours donné par Daniel Prat est encore en cours de frappe. Le document actuel est excessivement long, car j'ai utilisé une transcription écrite automatique pour aller plus vite. Il me reste encore à vérifier une bonne partie des retranscriptions.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blor-study/PCA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Théories et pratiques de l'État
+
+Ce cours complète celui de Droit constitutionnel. Il revient sur les théories ayant amené à la construction politique des États modernes.
 
 ### Support or Contact
 
