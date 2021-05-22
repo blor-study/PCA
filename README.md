@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Droit constitutionnel
 
 Cours donné par Daniel Prat.
-[Droit constitutionnel](https://blor-study.github.io/PCA/Droit-constitutionnel.pdf).
+[Droit constitutionnel](https://blor-study.github.io/PCA/Droit constitutionnel.pdf).
 
 ### Jekyll Themes
 
