@@ -1,34 +1,12 @@
-Sur cette page, vous trouverez quelques cours donnés dans la préparation aux concours administratifs de l'Université Dauphine. Il s'agit de cours donnés durant les sessions 2009-2010 et 2010-2011.
-
-## Welcome to GitHub Pages
-
+Sur cette page, vous trouverez quelques cours donnés durant les sessions 2009-2010 et 2010-2011 de la préparation aux concours administratifs de l'Université Dauphine. Ces cours ne sont plus d'actualité pour les concours, mais ils peuvent vous servir de base de travail à actualiser.
 You can use the [editor on GitHub](https://github.com/blor-study/PCA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Droit constitutionnel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cours donné par Daniel Prat.
+[Droit constitutionnel](https://blor-study.github.io/PCA/Droit-constitutionnel.pdf).
 
 ### Jekyll Themes
 
