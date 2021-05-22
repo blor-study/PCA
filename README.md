@@ -1,3 +1,5 @@
+Sur cette page, vous trouverez des cours donnés dans la préparation aux concours administratifs de l'Université Dauphine. Il s'agit de cours donnés durant les sessions 2009-2010 et 2010-2011.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/blor-study/PCA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
