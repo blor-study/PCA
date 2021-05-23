@@ -2,8 +2,6 @@
 
 Sur cette page, vous trouverez quelques cours donnés durant les sessions 2009-2010 et 2010-2011 de la préparation aux concours administratifs de l'Université Dauphine. Ces cours ne sont plus d'actualité pour les concours, mais ils peuvent vous servir de base de travail à actualiser.
 
-You can use the [editor on GitHub](https://github.com/blor-study/PCA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### [Droit constitutionnel](https://blor-study.github.io/PCA/Droit-constitutionnel.pdf)
