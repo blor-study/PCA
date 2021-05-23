@@ -15,6 +15,11 @@ Ce cours donné par Daniel Prat est encore en cours de frappe. Le document actue
 
 Ce cours complète celui de Droit constitutionnel. Il revient sur les théories ayant amené à la construction politique des États modernes.
 
+
+### Histoire des idées politiques
+
+### Histoire contemporaine
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
