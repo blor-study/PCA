@@ -1,8 +1,3 @@
----
-title: "Préparation aux concours administratifs"
-author: "John Smith"
----
-
 # Préparation aux concours administratifs
 
 Sur cette page, vous trouverez quelques cours donnés durant les sessions 2009-2010 et 2010-2011 de la préparation aux concours administratifs de l'Université Dauphine. Ces cours ne sont plus d'actualité pour les concours, mais ils peuvent vous servir de base de travail à actualiser.
