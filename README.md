@@ -5,14 +5,14 @@ Sur cette page, vous trouverez quelques cours donnés durant les sessions 2009-2
 Ce cours donné par Daniel Prat est encore en cours de frappe. Le document actuel est excessivement long, car j'ai utilisé une transcription écrite automatique pour aller plus vite. Il me reste encore à vérifier une bonne partie des retranscriptions.
 
 
-### Théories et pratiques de l'État
+### [Théories et pratiques de l'État](https://blor-study.github.io/PCA/Théorie-et-pratique-État.pdf)
 
 Ce cours complète celui de Droit constitutionnel. Il revient sur les théories ayant amené à la construction politique des États modernes.
 
 
 ### [Histoire des idées politiques](https://blor-study.github.io/PCA/Histoire-des-idées-politiques.pdf)
 
-### Histoire politique contemporaine
+### [Histoire politique contemporaine](https://blor-study.github.io/PCA/Histoire-politique-contemporaine.pdf)
 
 Cours de l'histoire politique contemporaine de la France depuis le début de la IIIe République.
 
