@@ -12,7 +12,9 @@ Ce cours complète celui de Droit constitutionnel. Il revient sur les théories 
 
 ### Histoire des idées politiques
 
-### Histoire contemporaine
+### Histoire politique contemporaine
+
+Cours de l'histoire politique contemporaine de la France depuis le début de la IIIe République.
 
 ### Support or Contact
 
