@@ -1,6 +1,6 @@
 Sur cette page, vous trouverez quelques cours donnés durant les sessions 2009-2010 et 2010-2011 de la préparation aux concours administratifs de l'Université Dauphine. Ces cours ne sont plus d'actualité pour les concours, mais ils peuvent vous servir de base de travail à actualiser.
 
-### [Droit constitutionnel](https://blor-study.github.io/PCA/Droit-constitutionnel.pdf)
+### [Droit constitutionnel](https://blor-study.github.io/PCA/Droit constitutionnel.pdf)
 
 Ce cours donné par Daniel Prat est encore en cours de frappe. Le document actuel est excessivement long, car j'ai utilisé une transcription écrite automatique pour aller plus vite. Il me reste encore à vérifier une bonne partie des retranscriptions.
 
