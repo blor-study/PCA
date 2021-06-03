@@ -2,7 +2,3 @@ theme: jekyll-theme-minimal
 
 title: Préparation aux concours administratifs
 description: Université Dauphine / Sessions 2009-2010 et 2010-2011
-
-body {
-  color:Black;
-}
