@@ -17,9 +17,10 @@ Ce cours complète celui de Droit constitutionnel. Il revient sur les théories 
 Cours de l'histoire politique contemporaine de la France depuis le début de la IIIe République.
 
 
-## Compléments (à venir)
+### Compléments (à venir)
 
 Un cours de droit constitutionnel de Jean-Pierre Massias.
+
 Un cours de droit constitutionnel de Jacques Baguenard.
 
 
