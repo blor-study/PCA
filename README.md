@@ -19,7 +19,7 @@ Cours de l'histoire politique contemporaine de la France depuis le début de la 
 
 ### Compléments (à venir)
 
-Un cours de [droit constitutionnel](https://blor-study.github.io/PCA/Complements/Droit-constitutionnel_(niveau_L1_-_Jean-Pierre_Massias).pdf) de Jean-Pierre Massias.
+Un cours de [droit constitutionnel](https://blor-study.github.io/PCA/blob/Complements/Droit-constitutionnel_(niveau_L1_-_Jean-Pierre_Massias).pdf) de Jean-Pierre Massias.
 
 Un cours de droit constitutionnel de Jacques Baguenard.
 
