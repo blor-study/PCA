@@ -23,6 +23,8 @@ Un cours de droit constitutionnel de Jean-Pierre Massias.
 
 Un cours de droit constitutionnel de Jacques Baguenard.
 
+Un cours de Relations internationales de Sylvie Peyrou).
+
 
 ### Support or Contact
 
