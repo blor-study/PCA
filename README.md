@@ -23,7 +23,7 @@ Un cours de [droit constitutionnel](https://blor-study.github.io/Droit/Droit-con
 
 Un cours de droit constitutionnel de Jacques Baguenard.
 
-Un cours de Relations internationales de Sylvie Peyrou).
+Un cours de [Relations internationales](https://blor-study.github.io/Droit/Relations-internationales_(Sylvie_Peyrou-Bartoll).pdf) de Sylvie Peyrou.
 
 
 ### Support or Contact
