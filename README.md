@@ -28,7 +28,7 @@ Un cours de [Relations internationales](https://blor-study.github.io/Droit/Relat
 
 ### Bonus
 
-Les notes de Sidonie du cours de Microéconomie de Dauphine.
+Les notes de Sidonie du [cours de Microéconomie de Dauphine](https://blor-study.github.io/LOREZ_Benjamin002.zip).
 
 
 ### Support or Contact
